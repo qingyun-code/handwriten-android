@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">数字识别</string>
+    <string name="server_ip">http://[服务器IP]:[服务器端口号]/upload</string>
+</resources>

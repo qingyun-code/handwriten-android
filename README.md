@@ -1,2 +1,2 @@
-# handwriten-android
-Android手机拍照上传手写数字图片并接收显示识别结果
+# 手写数字识别（Android版）
+详细说明
